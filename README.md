@@ -1,12 +1,11 @@
-# React Hacker
+# Netflix be like
 
-A simple React starter that's perfect for messing around. Comes with Babel, Emotion CSS in JS, ESlint, and Prettier.
+A simple React project for clone Netflix with Node.
 
 # Use
 
-- `git clone https://github.com/DZuz14/react-hacker.git`
-- `cd react-hacker`
-- `npm i`
 - `npm start`
+- `npm build`
+
 
 If your browser does not automatically open, visit `http://localhost:8080`
